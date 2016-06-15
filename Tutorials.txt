@@ -1,2 +1,4 @@
 http://docs.ros.org/api/nav_msgs/html/msg/Odometry.html
 http://docs.ros.org/api/geometry_msgs/html/index-msg.html
+http://docs.ros.org/api/geometry_msgs/html/msg/Pose.html
+http://stackoverflow.com/questions/687239/is-there-a-function-in-python-to-list-the-attributes-and-methods-of-a-particular
