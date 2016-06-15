@@ -1,0 +1,32 @@
+This is what a raw message looks like (formatting-wise) as received in string form by the webpage.
+
+header: 
+  seq: 134
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+child_frame_id: ''
+pose: 
+  pose: 
+    position: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 0.0
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+twist: 
+  twist: 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+  covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]

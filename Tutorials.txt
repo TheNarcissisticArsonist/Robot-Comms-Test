@@ -4,3 +4,6 @@ http://docs.ros.org/api/geometry_msgs/html/msg/Pose.html
 http://stackoverflow.com/questions/687239/is-there-a-function-in-python-to-list-the-attributes-and-methods-of-a-particular
 http://wiki.ros.org/navigation/Tutorials/RobotSetup/Odom
 http://answers.ros.org/question/79851/python-odometry/
+http://stackoverflow.com/questions/1891052/javascript-replace-doesnt-work
+http://biostall.com/removing-all-spaces-from-a-string-using-javascript/
+http://www.w3schools.com/jsref/jsref_replace.asp
