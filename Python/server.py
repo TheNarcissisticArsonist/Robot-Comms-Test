@@ -43,7 +43,7 @@ server.listen(5)
 # This code is run whenever data is received from the ROS subscriber node
 def callback(data):
 	global lastMessage
-	lastMessage = data.__str__()
+	lastMessage = data.__str__() #data.__str__() formats the message as string so it can 
 
 # This code creates the subscriber node
 def listener():
